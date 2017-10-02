@@ -1,0 +1,13 @@
+.fixed {
+	position: fixed;
+}
+
+.fbspot {
+	bottom: 15px;
+	right: 15px;
+}
+
+.contentwrap {
+	position: relative;
+	width: 100%;
+}
