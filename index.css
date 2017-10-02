@@ -1,0 +1,16 @@
+.search-bar-wrap {
+	height: 200px;
+	margin-left: 20%;
+	position: fixed;
+	top: 0;
+	text-align: center;
+	background: rbga(0, 0, 0, .7);
+	width: 100%;
+
+}
+
+
+input {
+	width: 600px;
+	height: 70px;
+}
