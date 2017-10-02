@@ -1,5 +1,5 @@
 # mighty-ducks
-## *"This is for the the strong in quack, and the brave in spirit"*
+## *"For the the strong in quack, and the brave in spirit"*
 ### This repo demonstrates our ability to:
 -Collaborate as a team with a singular objective  
 -Use git and GitHub effectively for version control and collaboration  
