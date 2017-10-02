@@ -1,4 +1,5 @@
-body {
+html, body {
 	background-color: lightgreen;
 	font-family: Comic Sans MS, cursive, sans-serif;
+	color: navy;
 }
